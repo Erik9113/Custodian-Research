@@ -2,5 +2,5 @@
   "name": "Custodian Research",
   "description": "An interactive digital mockup and prototype for Custodian Research, connecting university students to interdisciplinary and niche research labs.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
